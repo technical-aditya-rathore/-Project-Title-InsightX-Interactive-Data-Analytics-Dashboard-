@@ -112,11 +112,7 @@ Unauthorized copying is strictly prohibited. Legal action will be taken under Gi
 
 ---
 
-### 📁 Dummy Dataset Example (`dataset.csv`)
 
-You can use your own CSV, or I can generate a small dummy one for you.
-
----
 
 
 
